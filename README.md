@@ -66,6 +66,6 @@ Contributions are welcome! If you find any issues or want to enhance the functio
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Contact
-For any inquiries or feedback, please reach out to [your-email@example.com].
+For any inquiries or feedback, please reach out to shaktikadam512@gmail.com.
 
  
